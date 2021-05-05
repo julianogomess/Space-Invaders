@@ -1,0 +1,1 @@
+Para jogar, execute o programa python Space Learners - Jogo
